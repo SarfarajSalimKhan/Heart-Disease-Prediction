@@ -1,6 +1,6 @@
 Cross-site evaluation of heart disease prediction on the four UCI sites.
 
-Implements the experiment plan from the 'Gap Evidence' sheet:
+Implements the below experiment plan:
   RQ1  How much does AUC drop under leave-one-site-out (LOSO) vs a random split?
   RQ2  Are probabilities still calibrated on an unseen site?
   RQ3  How stable are feature-importance (SHAP) rankings across sites?
